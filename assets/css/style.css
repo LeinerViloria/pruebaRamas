@@ -1,3 +1,8 @@
 /*
     Generar estilos
 */
+
+.titulo{
+    font-size: 40px;
+    color: rgb(12, 12, 219);
+}
